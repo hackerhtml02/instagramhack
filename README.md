@@ -5,7 +5,7 @@ INSTALLATION
 - pkg install python2
 - pkg install git
 - git clone https://github.com/hackerhtml02/instagramhack.git
-- cd instahack
+- cd instagramhack
 - ls
 - bash INSTAGRAM.sh
 
